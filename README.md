@@ -13,3 +13,5 @@ fields, which alters the sound using radio-frequency oscillators. In my version,
 send out a high frequency sound wave and calculate how long it took to come back after hitting an object. By moving your hand infront of the sensors, you can alter the 
 frequency of the sound waves, creating music. One of the sensors alters frequency, and the other turns it on and off, just like in a tradtional theremin.
 
+The attached image shows how to wire and set up the theremin.
+
