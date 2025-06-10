@@ -12,4 +12,4 @@ They have two antennas—one that controls frequency, and the another that contr
 fields, which alters the sound using radio-frequency oscillators. In my version, instead of using electromagentic fields, I am using ultrasonic sensors. These sensors 
 send out a high frequency sound wave and calculate how long it took to come back after hitting an object. By moving your hand infront of the sensors, you can alter the 
 frequency of the sound waves, creating music. One of the sensors alters frequency, and the other turns it on and off, just like in a tradtional theremin.
-![Uploading image.png…]()
+
